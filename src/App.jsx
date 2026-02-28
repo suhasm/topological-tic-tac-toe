@@ -137,9 +137,6 @@ export default function App() {
       <h1 className="text-2xl sm:text-3xl font-bold text-slate-800 mb-1 tracking-tight">
         Topological Tic-Tac-Toe
       </h1>
-      <p className="text-xs sm:text-sm text-slate-400 mb-6">
-        A symmetry sketchpad for wallpaper groups
-      </p>
 
       {/* Controls */}
       <div className="flex flex-wrap items-center gap-3 mb-6">
