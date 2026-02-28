@@ -134,7 +134,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col items-center justify-center p-4 font-mono">
       {/* Header */}
-      <h1 className="text-2xl sm:text-3xl font-bold text-slate-800 mb-1 tracking-tight">
+      <h1 className="text-2xl sm:text-3xl font-bold text-slate-800 mb-6 tracking-tight">
         Topological Tic-Tac-Toe
       </h1>
 
